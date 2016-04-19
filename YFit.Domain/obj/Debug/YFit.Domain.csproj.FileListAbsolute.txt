@@ -1,0 +1,17 @@
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\bin\Debug\YFit.Domain.dll
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\bin\Debug\YFit.Domain.pdb
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\obj\Debug\YFit.Domain.csprojResolveAssemblyReference.cache
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\obj\Debug\YFit.Domain.dll
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\obj\Debug\YFit.Domain.pdb
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\obj\Debug\YFit.Domain.dll.mdb
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\bin\Debug\YFit.Domain.dll.mdb
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\obj\Debug\YFit.Domain.dll.mdb
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\bin\Debug\YFit.Domain.dll.mdb
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\obj\Debug\YFit.Domain.dll.mdb
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\bin\Debug\YFit.Domain.dll.mdb
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\obj\Debug\YFit.Domain.dll.mdb
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\bin\Debug\YFit.Domain.dll.mdb
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\obj\Debug\YFit.Domain.dll.mdb
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\bin\Debug\YFit.Domain.dll.mdb
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\obj\Debug\YFit.Domain.dll.mdb
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Domain\bin\Debug\YFit.Domain.dll.mdb

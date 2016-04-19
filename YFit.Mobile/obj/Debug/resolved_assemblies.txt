@@ -1,0 +1,11 @@
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Mobile\obj\Debug\assemblies\YFit.Mobile.dll
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Mobile\obj\Debug\assemblies\Mono.Android.dll
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Mobile\obj\Debug\assemblies\mscorlib.dll
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Mobile\obj\Debug\assemblies\RestSharp.dll
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Mobile\obj\Debug\assemblies\System.Core.dll
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Mobile\obj\Debug\assemblies\System.dll
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Mobile\obj\Debug\assemblies\System.Xml.dll
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Mobile\obj\Debug\assemblies\System.Xml.Linq.dll
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Mobile\obj\Debug\assemblies\YFit.Domain.dll
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Mobile\obj\Debug\assemblies\System.Runtime.Serialization.dll
+c:\Users\Sergey\documents\visual studio 2015\Projects\YFitWeb\YFit.Mobile\obj\Debug\assemblies\System.ServiceModel.Internals.dll

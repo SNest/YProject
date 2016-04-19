@@ -1,0 +1,4 @@
+YFit.Mobile.MainActivity, YFit.Mobile;md53ebae2a7d25f06da146dccafc9d9eaac.MainActivity
+YFit.Mobile.MainActivity, YFit.Mobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53ebae2a7d25f06da146dccafc9d9eaac.MainActivity
+YFit.Mobile.MainActivity;md53ebae2a7d25f06da146dccafc9d9eaac.MainActivity
+yfit.mobile.MainActivity;md53ebae2a7d25f06da146dccafc9d9eaac.MainActivity
